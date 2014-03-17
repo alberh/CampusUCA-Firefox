@@ -2,7 +2,7 @@
  * Escrito por Alberto García González.
  * Contacto: alberto.garciagonza@alum.uca.es
  * 
- * Copyright 2012, 2013 Alberto García González.
+ * Copyright 2012 - 2014 Alberto García González.
  * 
  * Este fichero es parte de Campus UCA.
  * 
